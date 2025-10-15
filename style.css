@@ -1,1 +1,36 @@
+body {
+    background-color: #ff69b4; /* Pink */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
 
+.container {
+    max-width: 600px;
+    margin: 60px auto;
+    background: rgba(255,255,255,0.9);
+    padding: 30px 20px;
+    border-radius: 16px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+    text-align: center;
+}
+
+h1 {
+    color: #d81b60;
+}
+
+a {
+    display: inline-block;
+    margin-top: 18px;
+    padding: 10px 25px;
+    background: #d81b60;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background 0.2s;
+}
+
+a:hover {
+    background: #ad1457;
+}
