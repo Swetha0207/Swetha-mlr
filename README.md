@@ -1,2 +1,2 @@
-# Swetha-mlr
+# SWETHA-MLR
 Hacktober repo
